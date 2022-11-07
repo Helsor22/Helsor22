@@ -1,4 +1,8 @@
-### Hi there 👋
+###
+Hi, I'm Hels, Helsor or Reiji. Whatever you want to call me. 
+Mail for communication helsor22@gmail.com
+Mail for suggestions reijior22@gmail.com
+Also you can find me on discord Hels#9824
 
 <!--
 **Helsor22/Helsor22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
